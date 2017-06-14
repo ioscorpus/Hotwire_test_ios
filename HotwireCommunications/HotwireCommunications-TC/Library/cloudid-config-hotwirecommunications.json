@@ -1,0 +1,9 @@
+{
+
+  "client": "hotwire",
+  "identity-provider": "hotwirecommunications-auth-gateway-net",
+  "keychain-service": "CloudId",
+  "login-environment": "ci"
+
+}
+

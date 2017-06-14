@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="QOW-Pc-bJl">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="UT4-t3-8D5">
+            <objects>
+                <viewController id="QOW-Pc-bJl" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="MmY-ji-TYe"/>
+                        <viewControllerLayoutGuide type="bottom" id="bsg-Cf-ebb"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="rPG-PQ-QII">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash" translatesAutoresizingMaskIntoConstraints="NO" id="nQt-Sv-ACC">
+                                <rect key="frame" x="122" y="102" width="131" height="131"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="nQt-Sv-ACC" secondAttribute="height" multiplier="1:1" id="35W-o1-5dz"/>
+                                </constraints>
+                            </imageView>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="mXv-QC-Bb3">
+                                <rect key="frame" x="178" y="257" width="20" height="20"/>
+                            </activityIndicatorView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="imgLoadingscreenFisionlogo" translatesAutoresizingMaskIntoConstraints="NO" id="G9v-1v-gvj">
+                                <rect key="frame" x="122" y="559" width="131" height="57"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="57" id="Ipe-ft-BNZ"/>
+                                    <constraint firstAttribute="width" constant="131" id="hXP-iT-EKq"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="nQt-Sv-ACC" firstAttribute="centerY" secondItem="rPG-PQ-QII" secondAttribute="centerY" multiplier="0.5" id="18D-Gh-0dt"/>
+                            <constraint firstItem="nQt-Sv-ACC" firstAttribute="width" secondItem="rPG-PQ-QII" secondAttribute="width" multiplier="0.35" id="9nc-IB-a3c"/>
+                            <constraint firstItem="mXv-QC-Bb3" firstAttribute="centerX" secondItem="rPG-PQ-QII" secondAttribute="centerX" id="ji6-UW-6qx"/>
+                            <constraint firstItem="bsg-Cf-ebb" firstAttribute="top" secondItem="G9v-1v-gvj" secondAttribute="bottom" constant="51" id="nrx-Wg-cyc"/>
+                            <constraint firstItem="mXv-QC-Bb3" firstAttribute="centerY" secondItem="rPG-PQ-QII" secondAttribute="centerY" multiplier="0.8" id="sWO-tE-4Kj"/>
+                            <constraint firstItem="G9v-1v-gvj" firstAttribute="centerX" secondItem="rPG-PQ-QII" secondAttribute="centerX" id="teI-R4-oNs"/>
+                            <constraint firstItem="nQt-Sv-ACC" firstAttribute="centerX" secondItem="rPG-PQ-QII" secondAttribute="centerX" id="zNo-Aa-Tgt"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4Rk-am-uiq" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-12" y="-78"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="imgLoadingscreenFisionlogo" width="131" height="56"/>
+        <image name="splash" width="137" height="137"/>
+    </resources>
+</document>

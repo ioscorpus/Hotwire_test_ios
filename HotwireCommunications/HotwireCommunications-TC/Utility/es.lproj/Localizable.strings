@@ -1,0 +1,591 @@
+/* 
+  Localizable.strings
+  HotwireCommunications-TC
+
+  Created by Chetu-macmini-26 on 30/08/16.
+  Copyright © 2016 chetu. All rights reserved.
+*/
+"Language" = "Spanish";
+// viewcontroller title
+"Upgrade" = "Mejorar";
+"PrivacyPolicy" = "Política de privacidad";
+"Community" = "Comunidad";
+"Support" = "Apoyo";
+"TV" = "televisión";
+"TermOfUse" = "Terminos de uso";
+"PrivacyPolicy" = "Política de privacidad";
+// Cell header title
+"TermOfUseCellTitle" = "TÉRMINOS DE USO";
+"PrivacyPolicyCellTitle" = "POLÍTICA DE PRIVACIDAD";
+// sign up
+"SignUp" = "Regístrate";
+"LogIn" = "iniciar sesión";
+// dashboard item list
+"SetUp" = "Preparar";
+"ChangePhone" = "Cambiar de teléfono";
+"ChangeEmail" = "Cambiar e-mail";
+"Help" = "Ayuda";
+"AccountSetup" = "Configuración de la notificación";
+// forgot login
+"AccountRecovery" = "Recuperación de Cuenta";
+
+"RecoverUsername" = "recuperar nombre de usuario";
+//UIBar button item
+"Skip" = "Omitir";
+"Cancel" = "Cancelar";
+"Back" = "Espalda";
+// dashboard  item list
+// title
+"MY_DASHBOARD" = "MI TABLERO";
+"Offer_And_Event" = "Oferta y Eventos";
+"Billing" = "Facturación";
+"Appointments" = "Equipo";
+"Connection" = "Conexión";
+"Community" = "Comunidad";
+"Upgrade" = "Mejorar";
+"My_Account" = "Mi cuenta";
+"Account" = "Cuenta";
+"App_Settings" = "Ajustes de Aplicacion";
+// internet item list
+// title
+"MY_INTERNET_SERVICE" = "MI SERVICIO DE INTERNET";
+"Check_My_Email" = "Revisa mi correo electrónico";
+"Speed_Test" = "Test de velocidad";
+"VPN_Connection" = "conexión VPN";
+"Upgrade_Internet_Service" = "Servicio de Internet de actualización";
+// tv tab item list
+// section header
+"MY_TV_SERVICE" = "MI SERVICIO";
+"MY_DVR" = "MI DVR";
+"MY_REMOTE_CONTROL" = "Mi control remoto";
+"MY_CHANNEL_LINEUP" = "MI CANAL DE LA LÍNEA";
+
+"TV_FISION_STREAMING" = "FISION IR STREAMING";
+"TV_FISION_DVR" = "DVR de FISION HOME";
+// tvList
+"Video_On_Demand" = "Vídeo a la carta";
+"TV_Network_Apps" = "Aplicaciones de TV Red";
+"Community_Video" = "video de la comunidad";
+//dvrList
+"Recording_Shows" = "grabar programas";
+"Scheduled_Shows" = "espectáculos programados";
+"TV_Schedule" = "Horario de television";
+//remoteControllList
+"Remote_Control" = "Control remoto";
+//channelLineupList
+"TV_Listings" = "Los anuncios de televisión";
+"Channel Lineup" = "Listado de Canales";
+"Upgrade TV Service" = "Servicio de televisión actualización";
+
+//Support Screen
+
+"Support_Title" = "Apoyo";
+"Self_Help" = "Autoayuda";
+"Support_Troubleshooting" = "Solución de problemas";
+"Support_FAQ" = "Preguntas frecuentes";
+"Support_All_Clear" = "Todo claro";
+"Support_Customer_Service" = "Servicio al cliente";
+"Support_Live_Chat" = "Chat en vivo";
+"Support_Text_Chat" = "Text";
+"Support_Voice_Chat" = "Voice";
+"Support_Video_Chat" = "Video";
+"Support_Call" = "Llamada";
+"Support_Yes" = "Sí";
+"Support_Cancel" = "Cancelar";
+
+"Support_Contact_Us" = "Contáctenos";
+"Support_Schedule_A_Call" = "Schedule A Call";
+"Support_Call_Me_Now" = "Call Me Now";
+"Support_Call_Customer_Service" = "Call Customer Service";
+"Support_Email_Us" = "Email Us";
+
+"Support_Appointment" = "Cita";
+
+"Support_Visit_Scheduled" = "Inicio Servicio Visita programada";
+"Support_Call_Scheduled" = "Phone Call Scheduled";
+"Support_Schedule_Appointment" = "Llamada telefónica programada";
+"Support_None" = "Ninguna";
+
+"Support_Schedule_Visit" = "Horario Visita domiciliaria";
+"Support_Account_Manager" = "Su Gerente de Cuenta";
+"Support_Manager_Info" = "Información del administrador de cuentas";
+
+//Fision Streaming Field
+
+"FISION_HIGHLIGHT" = "Fision GO Lo más destacado";
+"FISION_TV" = "Fision GO TV";
+"FISION_ON_DEMAND" = "Fision GO On Demand";
+"FISION_GUIDE" = "Guía de Fision GO";
+"FISION_RECORDING" = "Fision GO Grabaciones de la nube";
+
+//Fision DVR sections
+
+"FISION_PAST_RECORDING" = "Grabaciones pasadas";
+"FISION_SCHEDULE_RECORDING" = "Grabaciones programadas";
+"FISION_SERIES_RECORDING" = "Grabaciones de la serie";
+"FISION_SCHEDULE_A_RECORDING" = "Programar una grabación";
+//Phone item list
+//phone list title
+"MY_PHONE_SERVICE" = "MI SERVICIO DE TELÉFONO";
+"Phone_Portal" = "Portal de teléfono";
+"Settings" = "ajustes";
+"Upgrade_Phone_Service" = "Servicio Telefónico de actualización";
+"Accession_Voip_Phone" = "Adhesión de VoIP de teléfono";
+// SERVICE list item
+// headerTitle SERVICE list
+"MY_SECURITY_SERVICE" = "MI SERVICIO DE SEGURIDAD";
+//listArray
+"Alarm.com" = "Alarm.com";
+"Panic_Button" = "Botón de pánico";
+"Upgrade_Security_Service" = "Actualizar Servicio de Seguridad";
+//MARK: register first view
+"Register_Title" = "Registre su cuenta HotWire";
+"Username" = "Nombre de usuario";
+"Password" = "Contraseña";
+"RetypePassword" = "Vuelva a escribir la contraseña";
+"CustomerNumber" = "Número de cliente";
+"NotRobot" = "No soy un robot";
+"Continue" = "Continuar";
+//SignUp signUpselection
+"ChoosSignUp" = "Elija una Suscríbete Método";
+"InvitationCode" = "código de invitación";
+"InstallationCode" = "código de invitación";
+"CoustomerNoInfoText" = "Su número de cliente se puede encontrar en su estado de cuenta mensual .";
+"helpLineForCoustomerNo" = "no consigo un estado de cuenta mensual .";
+// inviteCode
+"InviteCodeInfoText" = "Su código de invitación se puede encontrar en la Introducción carta o correo electrónico enviar a su administrador y / o Hotwire Comunicaciones. Ver ejemplo letras de abajo.";
+"InviteCodeHelpLine"= "No se puede encontrar su código de invitación?";
+"Term&Condition" = "Al registrarse, usted acepta nuestras\ncondiciones de uso y? Política de privacidad";
+// higlightColor
+"TermsOfUse" = "condiciones de uso";
+"PrivacyPolicy" = "Política de privacidad";
+// text on activity sheet on signup selection
+"activitySheetbodyCustomerNumber" = "Si usted no recibe una declaración mensual,\n por favor llámenos al (555) 555-5555.";
+"CallUsNow" = "Llámanos ahora";
+"activitySheetboodyInviteCode" = "si usted no puede encontrar su código de invitación,\n por favor llámenos al (555) 555-5555.";
+"Cancel" = "Cancelar";
+// CancelButton Active sheet
+"CancelTitle" = "Cancel entrar?";
+"ContinueSignUp" = "Continuar ¿Regístrate?";
+"CancelActiveSheetBody" = "¿Está seguro de que desea cancelar de registro?";
+"ConfirmCancel" = "Sí, continuar";
+//MARK: signUpsecond
+"CustomerNumberTitle" = "¿Cuál es su número de cliente?";
+"Where_FoundCoustomerNumber" = "Su número de cliente se puede encontrar en su estado de cuenta mensual.";
+// sign up with invite code
+"InviteCodeTitle" = "¿Cuál es su código de instalación?";
+"WhereToFoundInviteCode" = "Su Código de invitación se puede encontrar en la carta de introducción o correo electrónico enviado a usted desde su administrador de propiedades y / o comunicaciones Hotwire.";
+"WhereToFoundInviteCodeHelp" = "Su Código de invitación se puede encontrar en la carta de introducción o correo electrónico enviado a usted desde su administrador de propiedades y / o comunicaciones Hotwire. Vea la siguiente carta de ejemplo:";
+
+//MARK: signUp term and condition screen
+"SignUpTermAndCondition" = "Al registrarse, usted está de acuerdo en nuestro término del uso y de haber leído nuestra política de privacidad. Puede recibir mensajes de texto SMS desde Hotwire Comunicaciones y puede optar en cualquier momento.";
+"SignupNumberInUse" = "Número Ya está en uso";
+"GetStarted" = "Empieza";
+"SignUpNow" = "Registrese Hoy";
+"AlreadyHaveAccount" = "¿Ya tienes una cuenta?";
+"LoginTermsNConditionIntro" = "Nuestros Términos de Servicio y Política de Privacidad han cambiado. Por favor, revise y acepte antes de contar.";
+//MARK: choose sign Up method
+"SignUpMethod" = "Elija una Suscríbete Método";
+"NewCustomer" = "Nuevo cliente";
+"ExistingCustomer" = "Cliente existente";
+//MARK: enter user name
+"WhatYourName" = "¿Cuál es tu nombre?";
+"FirstName" = "Nombre de pila";
+"LastName" = "Apellido";
+"NameInfoDetails" = "Por favor ingrese su nombre tal como aparece en su licencia de conducir.";
+//MARK: enter your mobile number
+"WhatIsYourMobNo" = "¿Cuál es su número de teléfono móvil?";
+"MobileNumberInfoText" = "Puede cambiar este número y gestionar las notificaciones de la configuración después de finalizar la creación de su cuenta.";
+"MobileNumberTitle" = "Número de teléfono móvil";
+"HelpMobileNumberForSignUp" = "Utilice este número de teléfono móvil para ayudar a proteger y recuperar su cuenta si ha olvidado su nombre de usuario o contraseña.";
+
+"MobileNumberInfoTextAfterLogin" = "Puede utilizar este número para ayudar a recuperar su cuenta si olvida su nombre de usuario o contraseña.";
+"Reset_Mobile_Info" = "Puede utilizar este número para ayudar a recuperar su cuenta si ha olvidado su nombre de usuario o contraseña.";
+"Done" = "Hecho";
+"LoginSendVerificationCode" = "Envíe el código de verificación";
+"EnterYourMobileNumber" = "Ingrese su numero celular";
+"DoNotHaveTextEnablePhone" = "Yo no tengo un teléfono de texto compatible con";
+"ForgotLoginInfoText" = "Enviaremos un código de verificación a esta dirección de correo electrónico para confirmar la suya.";
+"ForgotUserNameEmailInfoText" = "Enviaremos su nombre de usuario a esta dirección de correo electrónico.";
+"ForgotLoginMobileInfoTextWithMobile" = "Enviaremos un código de verificación a través de un mensaje de texto a este número de teléfono para confirmar el suyo.";
+"ForgotLoginMobileUserNameText" = "Enviaremos su nombre de usuario a través de un mensaje de texto a su número de móvil.";
+
+//MARK: enter your Email address
+"WhatYourEmailId" = "¿Cuál es tu dirección de correo electrónico?";
+"EmailAddressTitle" = "Dirección de correo electrónico";
+"ResetPassword" = "Restablecer la contraseña";
+"EnterEmailAddress" = "Introducir la dirección de correo electrónico";
+"EmailAddressInfoText" = "Utilizará esta dirección de correo electrónico cuando inicie sesión o desee restablecer su contraseña.";
+"SendUsernameBtn" = "Enviar nombre de usuario";
+"ResetPassword" = "Restablecer la contraseña";
+//MARK: Enter Password
+"Password_LoginAgain" = "Se le pedirá que inicie sesión otra vez después de que se complete el cambio de contraseña.";
+"CreatePassword" = "Crea una contraseña";
+"EnterPassword" = "Introducir la contraseña";
+"PasswordInfoText" = "Que va a utilizar su contraseña para acceder a su cuenta. Asegúrese de escribir y almacenar de manera segura para su uso posterior.";
+"PasswordStrength" = "seguridad de la contraseña";
+"NewPassword"="nueva contraseña";
+"Password" = "Password";
+
+"CreateYourAccount" = "Crea tu cuenta";
+"LoggingIn" = "Iniciar sesión";
+"RememberMe" = "Recuérdame";
+// validation string
+"MinimumEightCharacters" = "Ocho caracteres como mínimo";
+"OneUpperCaseLetter" = "Una letra mayúscula (e. ABC)";
+"OneLowerCaseLetter" = "Una letra minúscula (e. Abc)";
+"OneNumber" = "Un número (por ejemplo 1234)";
+"OneSpecialCharacter"= "Un carácter especial (e.! @ # $ ^ & *)";
+//MARK: security Pin
+"SecurityPinInfoText" = "Si llama al servicio de atención al cliente, le pediremos que nos proporcione este número de identificación personal (PIN) para ayudar a proteger su cuenta de personas no autorizadas.";
+"CreateSecurityPin" = "Crear un PIN de seguridad";
+"EnterPin" = "Ingrese su PIN";
+"CreateYourAccount" = "Crea tu cuenta";
+"LoggingIn" = "Iniciar sesión";
+//MARK: security Question
+"SecurityQuestionInfoText" = "Se puede utilizar esta pregunta de seguridad cuando se desea restablecer su contraseña.";
+"SelectSecurityQuest" = "Seleccione una Pregunta de Seguridad";
+// security question
+"FavoritePlaceToVisit" = "lugar favorito para visitar?";
+"BestFriendName" = "nombre del mejor amigo?";
+"FavoriteActor/Actress" = "Favorito el actor / actriz?";
+"MascotFavoriteSportsTeam" = "Mascota del equipo deportivo favorito?";
+"MotherMaidenName" = "¿Nombre de soltera de la madre?";
+"NameFirstPet" = "¿Nombre de la primera mascota?";
+"YourNickname" = "¿Tu apodo?";
+//MARK: security Answer
+"EnterSecurityAnswer" = "Introduzca al menos 8 caracteres";
+"SecurityAnswerInfoText" = "Trate de no usar respuestas comunes que otros sepan o se puede adivinar o que se encuentran en las redes sociales con facilidad.";
+//MARK: push notification
+"TurnOnPushNotification" = "Activar notificaciones Push";
+"FreeServiceCredit" = "Recibe $ 50 en libre servicio de crédito";
+"TurnOnPushNotificationBtnTitle" = "Activar las notificaciones";
+"TurnOnPushNotificationInfoText" = "Mantente informado. Obtener descuento actualización de servicios y el acceso a las actualizaciones offers.Get importantes de la cuenta y notificaciones de servicio. Obtener acceso a las noticias y eventos importantes.";
+// MARK :- page controller text
+"WelcomeHotwire" = "Bienvenido a";
+"BillingPayment" = "Facturación y pago";
+"BillingPaymentInfo" = "Ver su factura y pagar con su tarjeta de crédito o cuenta bancaria.";
+"Appointments" = "Equipo.";
+"AppointmentsInfo" = "Programe y administre sus citas con fotos de seguimiento y técnico en vivo";
+"TVServices" = "Los servicios de televisión";
+"TVServicesInfo" = "Acceda a TV Everywhere, vea su paquete de TV y las listas de canales de TV";
+"TroubleShooting" = "Solución de problemas";
+"TroubleShootingInfo" = "Solucione fácilmente su servicio con el servicio de atención al cliente de videoconferencia en directo";
+"PushNotifications" = "Notificaciones push";
+"PushNotificationsInfo" = "Recibir notificaciones de interupciones de servicio, eventos especiales o promociones comunitarias";
+//MARK: Mobile number varification
+"Verification" = "Verificación";
+"VerifyYourPhoneNumberTitle" = "Verifica tu numero de telefono";
+"CheckCode" = "Código de verificación";
+"EnterVerificationCode" = "Introduce el código de verificación";
+"EnterVerificationCodeInfo" = "Introducir el código de 6 dígitos que le enviamos en un mensaje de texto al";
+"EnterVerificationCodeForCallPreInfo" = "Estamos llamando ";
+"EnterVerificationCodeForCallPostInfo" = "Introduzca el código de 6 dígitos que se proporcionará.";
+"SendCodeAgainBtnTitle" = "Código de texto de nuevo";
+"ChangeMobileNumberBtnTitle" = "Cambiar número de móvil";
+"CallmeAgainBtnTitle" = "Llámame de nuevo";
+"CallmeInsteadBtnTitle" = "En vez llámame";
+"TextmeInsteadBtnTitle" = "Envíame un mensaje de texto";
+"SubmitBtnTitle" = "Enviar";
+//MARK: Mobile number varification for forgot login
+"ForgotLoginMobileHeaderText" = "Ingrese el código que le enviamos el teléfono.";
+"ForgotLoginMobileInfoText" = "El código de verificación es un número de 6 dígitos. Asegúrese de que no introduce tu número de teléfono o el número de teléfono que recibió el texto de.";
+// email verification for forgot login
+"ForgotLoginEmailVerification" = "Ingrese el código que le enviamos a su correo electrónico";
+"ForgotLoginEmailVerificationInfo" = "El código de verificación es un número de 6 dígitos.";
+//MARK: Email Varification
+"VerifyYourEmailAddressTitle" = "Verifique su dirección de correo electrónico";
+"VerifyYourEmailAddressAfterLoginTitle" = "Introduzca el código de verificación";
+"EnterVerificationCodeMailInfo" = "Introducir el código de 6 dígitos que le enviamos en un correo electrónico a ";
+"SendEmailAgain" = "Código de correo electrónico de nuevo";
+"Resend_Code" = "Reenviar codigo";
+"ChangeEmailAddress" = "Cambiar dirección de correo electrónico";
+"Go" = "Ir";
+"subDescriptionMobileVerification" = "Al pulsar Enviar código de verificación anterior, Hotwire Communication le enviará un SMS para confirmar su número de teléfono. En la siguiente pantalla, puede elegir 'Reenviar código' para iniciar otro SMS o 'Llamarme' para iniciar la llamada telefónica para confirmar su número de teléfono. Pueden aplicarse tarifas de mensajes, llamadas y datos.";
+"subDescriptionMobileUserName" = "Al pulsar 'Enviar nombre de usuario', Hotwire Communication le enviará un SMS con su nombre de usuario. Es posible que se apliquen tarifas de mensajes y datos.";
+//MARK: confirm phone number
+"ConfirmPhoneNumber" = "Confirmar el número de teléfono";
+"WeAreCalling" = "Estamos llamando al +1 (555) 555-5555";
+"EnterSecurityCode" = "Introduzca el siguiente código de seguridad en \n su teléfono";
+//btn title
+"CallMeAgain" = "Llámame de nuevo";
+"ChangeMobileNumber" = "Cambiar número de móvil";
+"TextMeInstead" = "Texto yo En su lugar";
+// MARK: welcome screen
+"Hi" = "Hola";
+"ThanksForCreatingAccount" = "Gracias por crear su cuenta";
+"ThanksForCreatingAccountFirstTime" = "Bienvenido a nuestra nueva experiencia móvil";
+"ThanksForCreatingAccountInfo" = "Vamos a echar un movimiento para terminar de configurar su cuenta y verificar la dirección de número de teléfono y correo electrónico que utilizó durante su registro.";
+"FinishAccountSetup" = "Finalizar la configuración de la cuenta";
+//MARK: LoginUser
+"WelcomeInfoText" = "Vamos a tomar un momento para verificar y configurar su cuenta para esta nueva experiencia móvil.";
+"WelcomeTermAndCondition" = "Al continuar, acepta nuestras Condiciones de uso y Política de privacidad.";
+"LoginThanksMessage" = "Gracias por crear su cuenta";
+//MARK: Account setup verification
+"VerifyMobileNumber" = "Verifique su número de móvil";
+"VerifyMobileNumberInfoText" = "Así que enviamos un mensaje de texto con el código de verificación para este número de teléfono. Puede utilizar este número para ayudar a proteger su cuenta y recuperar su contraseña si alguna vez olvida.";
+"SendCode" = "Enviar código";
+//MARK: Account setup email varification
+"VerifyEmailAddress" = "¿Cuál es tu dirección de correo electrónico?";
+"VerifyEmailAddressInfo" = "Se puede utilizar esta dirección de correo electrónico al iniciar sesión en o desea restablecer su contraseña. También le enviará notificaciones importantes y cuenta del Servicio de vez en cuando.";
+"VerifyEmailAddressInfoAfterLogin" = "Necesitamos una dirección de correo electrónico para ayudar a recuperar su cuenta si olvida su contraseña. También le enviaremos notificaciones importantes de servicio y cuenta de vez en cuando.";
+//MARK: AccountRecovery
+"AccountRecoveryPageHeader" = "Obtener ayuda para iniciar sesión en su cuenta.";
+"RecoveryOption" = "ESCOGER UNA OPCIÓN DE RECUPERACIÓN";
+"RecoverUsername" = "recuperar nombre de usuario";
+"AccountRecoveryInfo" = "Para su protección, registrar toda la actividad relacionada con la cuenta de recuperación, incluyendo la dirección IP. También enviamos notificaciones a que en base a esta actividad.";
+//MARK: Reset Password
+"ResetPasswordHeader" = "ELIGE UN opción de restablecimiento";
+//MARK: Recover Username
+"RecoverUsernameHeader" = "ESCOGER UNA OPCIÓN DE RECUPERACIÓN";
+"MobilePhone" = "Teléfono móvil";
+"Email" = "Email";
+"CustomerNumber" = "Número de cliente";
+//MARK: Uialertcontroler Title and text
+"CodeSendTitle" = "código Enviar";
+"CodeSendOnMobileBody" = "Enviamos un código a través de mensaje de texto a \n (555) 555-5555. \n\n Sometimes puede tardar unos minutos en llegar. Por favor sea paciente.";
+"CodeConfirmedTitle" = "código Confirmado";
+"CodeConfirmedMobileNumberBody"="Su número de teléfono se ha verificado.";
+"CodeConfirmedEmailBody" = "Su dirección de correo electrónico se ha confirmado y verificado.";
+"CodeResentTitle" = "Código Re-enviado";
+"CodeResentBody" = "Se puede tomar hasta 5 minutos antes de que llegue el mensaje de texto.";
+"EmailSentTitle" = "Email enviado";
+"EmailSentBody" = "Hola John. Hemos enviado un correo electrónico a jsmith@gmail.com. \n\n Por favor abra el correo electrónico y siga las instrucciones para verificar su dirección de correo electrónico. Esto ayuda a que su cuenta sea más segura. \n\n Asegúrese de revisar su carpeta de correo no deseado si no ve el correo electrónico en su bandeja de entrada. También nos añade a su lista de remitentes seguros.";
+"InvitationCodeInvalidTitle" = "Invitación de código no válido";
+"InvitationCodeInvalidBody" = "El código de invitación que has introducido no es válido. Por favor, compruebe el código y vuelve a intentarlo.";
+"CustomerNumberInvalidTitle" = "Número de cliente no válido";
+"CustomerNumberInvalidBody" = "Hay número de cliente que ha introducido se encontró nt en el sistema. por favor revise su introducido no se encuentra en el sistema. Por favor, compruebe el número y vuelva a intentarlo.";
+"CodeInvalidTitle" = "código no válido";
+"CodeInvalidBody" = "El código introducido no es válido. Por favor, compruebe el numerador envía nuevo código para que número.";
+"CodeExpiredTitle" = "código de plazo";
+"CodeExpiredBody" = "El código introducido ha caducado favor enviar un nuevo código para el número y vuelva a intentarlo.";
+"EmailAlreadyInUseTitle" = "Correo electrónico ya está en uso";
+"EmailInvalidTitle" = "Correo electrónico no válido";
+"EmailInvalidBody" = "Por favor, introduce una dirección de correo electrónico válida.";
+"EmailAlreadyInUseBody" = "jsmith@gmail.com ya está registrado en nuestro sistema. Por favor, introduzca otra dirección de correo electrónico o iniciar sesión en";
+// forgot login
+"EmailSentTitle" ="Email enviado";
+"EmailSentBody" = "Hemos enviado un código de verificación de";
+// recover user name
+"RecoverUserNamePhoneNoTitle" = "Mensaje de texto enviado";
+"RecoverUserNamePhoneNoBody" = "Si (555) 555-5555 es un número válido, recibirá un mensaje de texto breve con nombre de usuario";
+// recover user name email id
+"RecoverUserNameEmailNoTitle"="Email enviado";
+"RecoverUserNameEmailNoBody"="Si ? es válida, recibirá un correo electrónico en breve con el nombre de usuario.";
+"Alert" = "Alerta";
+"Ok" = "DE ACUERDO";
+
+//Verification Code Entry Scene
+
+"PhoneEmailOTPInstruction" = "Introduzca el código de verificación de 6 dígitos que enviamos a ";
+"ResendCode" = "Reenviar codigo";
+"CallMeButtonTitle" = "Llámame en su lugar";
+"TextEnabledPhoneText"="No tengo un teléfono habilitado para texto.";
+
+//Reset password View Controller
+
+"EnterNewPassword" = "Introduzca una nueva contraseña";
+"EnterPasswordCharecter" = "Introduzca al menos 8 caracteres.";
+"SaveNewPasswordBtn" = "Guardar Nueva Contraseña";
+"VeryWeakStatus" = "Muy débil";
+"WeakStatus" = "Débiles";
+"OkStatus" = "No está mal";
+"GoodStatus" = "Bueno";
+"GreatStatus" = "Estupendo";
+"NewPasswordTitle" = "nueva contraseña";
+
+//Password help scene
+"PasswordHelp" = "Contraseña Ayuda";
+"PasswordHeading" = "Creación de una contraseña segura";
+"PasswordInstructionHeading" = "Para mantener su cuenta segura, he aquí algunos consejos sobre cómo crear una contraseña segura:";
+"PasswordInstruction1" = "Utilice ocho o más caracteres con una mezcla de números, símbolos y letras mayúsculas y minúsculas.";
+"PasswordInstruction2" = "Utilice una contraseña única para cada una de sus cuentas importantes.";
+"PasswordInstruction3" = "No utilice términos comunes o palabras simples que sean fáciles de adivinar.";
+
+
+// Service Account View Controller
+"ServiceAccount"="Cuenta de servicio";
+"ServiceAccountName"="Nombre";
+"ServiceAccountNumber"="Número de cuenta";
+"MyCurrentServices" = "Mis servicios actuales";
+"PrimaryNumber" = "Numero primario";
+"AddaSecondNumber" = "Agregar un segundo número";
+"PrimaryEmail" = "Correo electrónico principal";
+"AddaSecondEmail" = "Agregar un segundo correo electrónico";
+"SERVICEADDRESS" = "DIRECCIÓN DE SERVICIO";
+"ACCOUNTSERVICES"="SERVICIOS CONTABLES";
+"BILLINGADDRESS" = "DIRECCIÓN DE ENVIO";
+"PHONENUMBER" = "NÚMERO DE TELÉFONO";
+"ACCOUNTCONTACTS" = "CONTACTO DE LA CUENTA";
+
+// BillingInfo View Controller
+"BillingInfoTitle"="Información de facturación";
+"TotalAmountDue" = "Importe total pendiente";
+"PaymentDueOn" = "Pago debido en";
+"PayBill"="Pagar la factura";
+"PayDifferentAmount"="Pagar cantidad diferente";
+"SetupAutoPayment"="Configurar el pago automático";
+"PaperlessBilling"="Facturación sin papel";
+"BillStatementHistory"="Declaración de cuentas";
+"UnderstandingYourBill"="Comprensión de su factura";
+"BALANCESUMMARY"="RESUMEN DEL EQUILIBRIO";
+"PAYMENTOPTIONS"="OPCIONES DE PAGO";
+"BILLINGOPTIONS"="OPCIONES DE FACTURACIÓN";
+
+
+// Account View Controller
+"ProfilePictureTitle"="Foto de perfil";
+"PayBillTitle"="vale";
+"MessagesTitle"="Mensajes";
+"BillingInfoTitle"="Información de facturación";
+"ServiceAccountTitle"="Cuenta de servicio";
+"UserAccountTitle"="Cuenta de usuario";
+"LanguageTitle"="Idioma";
+"NotificationsTitle"="Notificaciones";
+"SignOutTitle"="Desconectar";
+"SignOutTitleForLogOut" = "¿Desconectar?";
+"USERPROFILETitle"="PERFIL DEL USUARIO";
+"BILLMANAGEMENTTitle"="GESTIÓN DE LA OFERTA";
+"ACCOUNTMANAGEMENTTitle"="ADMINISTRACIÓN DE CUENTAS";
+"APPSETTINGSTitle"="AJUSTES DE APLICACION";
+
+
+//Account language setting scene
+"languageIntro" = "Si cambia el idioma de la aplicación, será necesario reiniciar la aplicación.";
+"languageSaveButtonTitle" = "Salvar";
+"LanguageTitle" = "Idioma";
+"Laungage_Options" = "OPCIONES DE IDIOMA";
+
+//Signout screen
+"SignOutTitle" = "Desconectar";
+"SignOutContent" = "¿Estás seguro?";
+"SignOutButtonTitle" = "Sí, Salir";
+
+"LivaChatTitle" = "Chat en vivo";
+
+// User Detail View Controller
+"UserAccountTitle"="Cuenta de usuario";
+"DisplayNameTitle"="NOMBRE PARA MOSTRAR";
+"Display_name" = "Nombre para mostrar";
+"LogInSectionTitle"="INICIAR SESIÓN";
+"DescriptionValueInUserAccount"="Si olvida su contraseña o no puede acceder a su cuenta, usaremos esta información para ayudarle a iniciar sesión.";
+"ACCOUNTRECOVERYTitle"="RECUPERACIÓN DE CUENTA";
+"PhoneTitle"="Móvil";
+"VerifiedText"="Verificado";
+"NotVerifiedText"= "Inconfirmado";
+"EmailTitle"="Correo electrónico";
+"PasswordTitle"="Contraseña";
+"NameTitle"="Nombre";
+"UsernameTitle"="Nombre de usuario";
+
+"LEGALSECTION" = "LEGAL";
+"Privacy_Policy" = "Política de privacidad";
+"Terms_of_use" = "Términos de Uso";
+
+//Authentication alert text
+
+"PasswordAlerTitle" = "Escriba la contraseña otra vez";
+"PasswordAlertMessage" = "Introduzca su contraseña para continuar.";
+
+//User Name Screen
+"UserNameTitle" = "Nombre de usuario";
+"UserNameHeading" = "¿Cual es tu nombre de usuario?";
+"UserNameInfo" = "Se le pedirá que inicie sesión otra vez después de que se complete su cambio de nombre de usuario.";
+"UserNamePlaceholder" = "Introduzca su nombre de usuario";
+
+//Login Screen
+"LoginInfo" = "Inicie sesión con su ID Hotwire";
+"UserNamePlaceHolder" = "Introduzca dirección de correo electrónico o nombre de usuario";
+"PasswordPlaceHolder" = "Contraseña";
+"ForgotLogoutButton" = "¿Olvidaste tu nombre de usuario o contraseña?";
+"Forgot_Username" = "¿Has olvidado tu contraseña?";
+"UsernameEmptyMessage" = "El nombre de usuario no puede estar vacío.";
+"PasswordEmptyMessage" = "La contraseña no puede estar vacía.";
+
+
+
+"PleaseWaitTitle" = "Por favor espera...";
+
+//Signup Choice  screen
+
+"InvitationCodeTitle" = "código de invitación";
+"CustomerNumberTitle" = "Número de cliente";
+
+"MobileVerificationCodeSignup" = "Utilice este número de teléfono móvil para proteger y recuperar su cuenta si olvida su nombre de usuario o contraseña.";
+
+//Community screen
+
+"PropertyMessageTitle" = "Mensaje de la propiedad";
+"CommunityChannelsTitle" = "Canales comunitarios";
+"CommunityInformationTitle" = "Información de la comunidad";
+"CalendarTitle" = "Calendario";
+"BulletinBoardTitle" = "Tablón de anuncios";
+"MarketplaceTitle" = "Mercado";
+"ReservationsTitle" = "Reservas";
+"POATitle" = "POA";
+
+//SupportTab SelectTopic Screen
+"FAQ_selectTopic" = "Seleccionar tema";
+"FAQ_television" = "Televisión";
+"FAQ_internet" = "Internet";
+"FAQ_phone" = "Teléfono";
+"FAQ_billing" = "Facturación";
+"FAQ_general" = "General";
+
+//SupportTab Television Screen
+
+"Tel_television" = "Televisión";
+"Tel_SectionZero" = "ARTÍCULOS DISPONIBLES";
+"Tel_SectionZero_RowZero" = "¿Por qué no puedo ver todos mis canales?";
+"Tel_SectionZero_RowOne" = "¿Estoy suscrito al paquete apropiado para tener todos los canales que quiero.";
+"Tel_SectionZero_RowTwo" = "¿Cuál es mi línea de canales?";
+"Tel_SectionZero_RowThree" = "¿Cómo puedo ver una guía de TV en línea?";
+"Tel_SectionZero_RowFour" = "¿Cuál es la diferencia entre Analoug & Digital?";
+
+"Tel_SectionOne" = "GUIAS DE USUARIO Y MANUALES";
+"Tel_SectionOne_RowZero" = "Guía del usuario de Fision";
+"Tel_SectionOne_RowOne" = "Funciones básicas y avanzadas";
+"Tel_SectionOne_RowTwo" = "Guía de control remoto";
+"Tel_SectionOne_RowThree" = "Cómo acceder a TV en todas partes";
+
+//SupportTab Television Screen
+
+"FAQ_Article" = "Artículo";
+"FAQ_Done" = "Hecho";
+"FAQ_Save" = "Salvar";
+"FAQ_Share" = "compartir";
+
+//SupportTab Account Manager Screen
+"Sup_AccountManager" = "Gerente de cuentas";
+"Sup_office_address" = "DIRECCIÓN DE LA OFICINA";
+"Sup_contact_info" = "INFORMACIÓN DEL CONTACTO";
+"Sup_Contact" = "Contacto";
+"Sup_Office" = "Oficina";
+
+//SupportTab Account ManagerHelp Screen
+"Sup_Help" = "Cómo puedo ayudarte";
+"Sup_Contact_Help" = "¿Qué podemos ayudarte?";
+"Sup_Cancel" = "Cancelar";
+"Sup_Send" = "Enviar";
+"Sup_Subject" = "Tema";
+"Sup_ComposeMsg" = "Crear Mensaje";
+
+//TV tab
+"TV_channelLineUp" = "Línea de canales";
+"TV_AllMovies" = "Todas las películas, todo el tiempo, sin cortar y comercial libre cuando se suscribe a ";
+
+//UpgradeTab
+
+"UP_ADD/UPGRADE" = "SERVICIO ADD / UPGRADE";
+"UP_FissionTv" = "Fision TV";
+"UP_FissionInternet" = "Fision Internet";
+"UP_FissionVoice" = "Voz Fision";
+"UP_FissionSecurity" = "Fision Seguridad";
+"UP_FissionEquipment" = "Equipo";
+"UP_FissionBundles" = "manojos";
+
+
+
+
+
+
