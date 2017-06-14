@@ -217,6 +217,8 @@
 		D7D3A04F1EEFE45E00DBAA3B /* SingleRecdFirstTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D3A04E1EEFE45E00DBAA3B /* SingleRecdFirstTableViewCell.swift */; };
 		D7D3A0511EEFE47B00DBAA3B /* SingleRecdSecondTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D3A0501EEFE47B00DBAA3B /* SingleRecdSecondTableViewCell.swift */; };
 		D7D3A0531EEFE49700DBAA3B /* SingleRecdThirdTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D3A0521EEFE49700DBAA3B /* SingleRecdThirdTableViewCell.swift */; };
+		EC8D9E101EF0FEF000F1058D /* NetworkAPIModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC8D9E0F1EF0FEF000F1058D /* NetworkAPIModel.swift */; };
+		EC8D9E121EF1019D00F1058D /* PostRecordingSeriesInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC8D9E111EF1019D00F1058D /* PostRecordingSeriesInfoController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -476,6 +478,8 @@
 		D7D3A0501EEFE47B00DBAA3B /* SingleRecdSecondTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleRecdSecondTableViewCell.swift; sourceTree = "<group>"; };
 		D7D3A0521EEFE49700DBAA3B /* SingleRecdThirdTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleRecdThirdTableViewCell.swift; sourceTree = "<group>"; };
 		E97FB16916583570BB579AEB /* Pods-HotwireCommunications.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HotwireCommunications.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HotwireCommunications/Pods-HotwireCommunications.debug.xcconfig"; sourceTree = "<group>"; };
+		EC8D9E0F1EF0FEF000F1058D /* NetworkAPIModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkAPIModel.swift; sourceTree = "<group>"; };
+		EC8D9E111EF1019D00F1058D /* PostRecordingSeriesInfoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostRecordingSeriesInfoController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -978,6 +982,8 @@
 				D7710C201EBC75EE0030DAF8 /* SchedulARecordingViewController.swift */,
 				D7710C221EBC75F60030DAF8 /* RemoteViewController.swift */,
 				D7710C241EBC75FD0030DAF8 /* ScheduledRecordingViewController.swift */,
+				EC8D9E111EF1019D00F1058D /* PostRecordingSeriesInfoController.swift */,
+				EC8D9E0F1EF0FEF000F1058D /* NetworkAPIModel.swift */,
 			);
 			path = TVSection;
 			sourceTree = "<group>";
@@ -1504,6 +1510,7 @@
 				D777FFA31EBD936800592B28 /* PastRecdInnerCollectionViewCell.swift in Sources */,
 				D7B47BFE1EC17D1B00BADBE9 /* CommunityChannelsViewController.swift in Sources */,
 				D777FFAB1EBD936800592B28 /* SchedulARecordTimeCell.swift in Sources */,
+				EC8D9E121EF1019D00F1058D /* PostRecordingSeriesInfoController.swift in Sources */,
 				3A41B0991E927CF400330DC2 /* ModelSupport.swift in Sources */,
 				3A9E1EE81E9F90C4007E1A85 /* DateAndTime.swift in Sources */,
 				3AD89D6A1E1D345F0030D696 /* SignInAndSecurityViewController.swift in Sources */,
@@ -1603,6 +1610,7 @@
 				D7710C1D1EBC75DC0030DAF8 /* SchedulARecordingInnnerController.swift in Sources */,
 				AFE4CB9A1D9A9313000692C4 /* TermAndConditionHeaderTableViewCell.swift in Sources */,
 				3AEF97C51E1C1F5E00975E2C /* ProfilePictureTableViewCell.swift in Sources */,
+				EC8D9E101EF0FEF000F1058D /* NetworkAPIModel.swift in Sources */,
 				3A7729CE1E66D4E600E24804 /* ResetPasswordViewController.swift in Sources */,
 				3AB1F69B1D8306AA0088F1A3 /* ColorExtension.swift in Sources */,
 				3AEC369E1DD34F15000CD147 /* ForgotLoginFooterTableViewCell.swift in Sources */,
